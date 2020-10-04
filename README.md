@@ -1,6 +1,6 @@
 # DataMaker
 
-![Screenshot from 2020-10-04 23-33-09](https://user-images.githubusercontent.com/57752033/95018454-d8628e80-069a-11eb-975c-310ecea1a025.png)
+![Screenshot from 2020-10-04 23-44-17](https://user-images.githubusercontent.com/57752033/95018570-99810880-069b-11eb-98c5-57f61c9e7a13.png)
 
 クラスタリングアルゴリズムのテスト用のデータセットの作成を手助けする、Gtkmmベースのアプリケーションです。<br>
 ビルドには事前に`gtkmm`の環境構築が必要です。
